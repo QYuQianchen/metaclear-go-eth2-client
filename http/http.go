@@ -352,6 +352,9 @@ func (s *Service) get(ctx context.Context,
 	defer resp.Body.Close()
 	log = log.With().Int("status_code", resp.StatusCode).Logger()
 
+	// get IP address from the httpResponse header
+	log.Debug().Str("resp header IP", resp.Header.Get("X-Forwarded-For")).Msg("IP address")
+
 	res := &httpResponse{
 		statusCode: resp.StatusCode,
 	}

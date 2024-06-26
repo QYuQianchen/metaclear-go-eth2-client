@@ -1,4 +1,4 @@
-module github.com/attestantio/go-eth2-client
+module github.com/QYuQianchen/metaclear-go-eth2-client
 
 go 1.20
 
