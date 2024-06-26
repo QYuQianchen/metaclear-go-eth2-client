@@ -21,10 +21,10 @@ import (
 	"time"
 
 	client "github.com/attestantio/go-eth2-client"
-	"github.com/attestantio/go-eth2-client/api"
-	apiv1 "github.com/attestantio/go-eth2-client/api/v1"
-	"github.com/attestantio/go-eth2-client/http"
-	"github.com/attestantio/go-eth2-client/spec/phase0"
+	"github.com/QYuQianchen/metaclear-go-eth2-client/api"
+	apiv1 "github.com/QYuQianchen/metaclear-go-eth2-client/api/v1"
+	"github.com/QYuQianchen/metaclear-go-eth2-client/http"
+	"github.com/QYuQianchen/metaclear-go-eth2-client/spec/phase0"
 	"github.com/stretchr/testify/require"
 )
 

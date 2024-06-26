@@ -17,7 +17,7 @@ import (
 	"context"
 
 	consensusclient "github.com/attestantio/go-eth2-client"
-	"github.com/attestantio/go-eth2-client/api"
+	"github.com/QYuQianchen/metaclear-go-eth2-client/api"
 )
 
 // SubmitBlindedBeaconBlock submits a blinded beacon block.

@@ -17,8 +17,8 @@ import (
 	"context"
 
 	consensusclient "github.com/attestantio/go-eth2-client"
-	"github.com/attestantio/go-eth2-client/api"
-	"github.com/attestantio/go-eth2-client/spec/altair"
+	"github.com/QYuQianchen/metaclear-go-eth2-client/api"
+	"github.com/QYuQianchen/metaclear-go-eth2-client/spec/altair"
 )
 
 // SyncCommitteeContribution provides a sync committee contribution.

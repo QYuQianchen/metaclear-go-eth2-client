@@ -18,10 +18,10 @@ import (
 	"testing"
 
 	consensusclient "github.com/attestantio/go-eth2-client"
-	apiv1 "github.com/attestantio/go-eth2-client/api/v1"
-	"github.com/attestantio/go-eth2-client/mock"
-	"github.com/attestantio/go-eth2-client/multi"
-	"github.com/attestantio/go-eth2-client/testclients"
+	apiv1 "github.com/QYuQianchen/metaclear-go-eth2-client/api/v1"
+	"github.com/QYuQianchen/metaclear-go-eth2-client/mock"
+	"github.com/QYuQianchen/metaclear-go-eth2-client/multi"
+	"github.com/QYuQianchen/metaclear-go-eth2-client/testclients"
 	"github.com/rs/zerolog"
 	"github.com/stretchr/testify/require"
 )

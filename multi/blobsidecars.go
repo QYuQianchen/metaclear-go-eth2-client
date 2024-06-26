@@ -17,8 +17,8 @@ import (
 	"context"
 
 	consensusclient "github.com/attestantio/go-eth2-client"
-	"github.com/attestantio/go-eth2-client/api"
-	"github.com/attestantio/go-eth2-client/spec/deneb"
+	"github.com/QYuQianchen/metaclear-go-eth2-client/api"
+	"github.com/QYuQianchen/metaclear-go-eth2-client/spec/deneb"
 )
 
 // BlobSidecars fetches the blob sidecars given options.

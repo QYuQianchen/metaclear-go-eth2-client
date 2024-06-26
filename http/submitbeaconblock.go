@@ -20,7 +20,7 @@ import (
 	"errors"
 
 	client "github.com/attestantio/go-eth2-client"
-	"github.com/attestantio/go-eth2-client/spec"
+	"github.com/QYuQianchen/metaclear-go-eth2-client/spec"
 )
 
 // SubmitBeaconBlock submits a beacon block.

@@ -19,7 +19,7 @@ import (
 	"encoding/json"
 	"errors"
 
-	"github.com/attestantio/go-eth2-client/spec/capella"
+	"github.com/QYuQianchen/metaclear-go-eth2-client/spec/capella"
 )
 
 // SubmitBLSToExecutionChanges submits BLS to execution address change operations.

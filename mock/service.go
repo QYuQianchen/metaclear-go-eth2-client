@@ -17,8 +17,8 @@ import (
 	"context"
 	"time"
 
-	"github.com/attestantio/go-eth2-client/api"
-	"github.com/attestantio/go-eth2-client/spec/phase0"
+	"github.com/QYuQianchen/metaclear-go-eth2-client/api"
+	"github.com/QYuQianchen/metaclear-go-eth2-client/spec/phase0"
 	"github.com/pkg/errors"
 	"github.com/rs/zerolog"
 	zerologger "github.com/rs/zerolog/log"

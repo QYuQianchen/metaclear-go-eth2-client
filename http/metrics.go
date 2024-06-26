@@ -18,7 +18,7 @@ import (
 	"errors"
 	"regexp"
 
-	"github.com/attestantio/go-eth2-client/metrics"
+	"github.com/QYuQianchen/metaclear-go-eth2-client/metrics"
 	"github.com/prometheus/client_golang/prometheus"
 )
 

@@ -19,8 +19,8 @@ import (
 	"time"
 
 	consensusclient "github.com/attestantio/go-eth2-client"
-	"github.com/attestantio/go-eth2-client/api"
-	"github.com/attestantio/go-eth2-client/http"
+	"github.com/QYuQianchen/metaclear-go-eth2-client/api"
+	"github.com/QYuQianchen/metaclear-go-eth2-client/http"
 	"github.com/pkg/errors"
 	"github.com/rs/zerolog"
 )

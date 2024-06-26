@@ -18,7 +18,7 @@ import (
 	"context"
 
 	client "github.com/attestantio/go-eth2-client"
-	"github.com/attestantio/go-eth2-client/api"
+	"github.com/QYuQianchen/metaclear-go-eth2-client/api"
 )
 
 type nodeVersionJSON struct {

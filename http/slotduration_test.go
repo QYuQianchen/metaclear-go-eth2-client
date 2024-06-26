@@ -20,7 +20,7 @@ import (
 	"time"
 
 	client "github.com/attestantio/go-eth2-client"
-	"github.com/attestantio/go-eth2-client/http"
+	"github.com/QYuQianchen/metaclear-go-eth2-client/http"
 	"github.com/stretchr/testify/require"
 )
 

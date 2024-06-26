@@ -17,8 +17,8 @@ import (
 	"context"
 
 	consensusclient "github.com/attestantio/go-eth2-client"
-	"github.com/attestantio/go-eth2-client/api"
-	"github.com/attestantio/go-eth2-client/spec"
+	"github.com/QYuQianchen/metaclear-go-eth2-client/api"
+	"github.com/QYuQianchen/metaclear-go-eth2-client/spec"
 )
 
 // SignedBeaconBlock fetches a signed beacon block given a block ID.

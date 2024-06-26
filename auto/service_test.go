@@ -20,8 +20,8 @@ import (
 	"time"
 
 	eth2client "github.com/attestantio/go-eth2-client"
-	"github.com/attestantio/go-eth2-client/api"
-	"github.com/attestantio/go-eth2-client/auto"
+	"github.com/QYuQianchen/metaclear-go-eth2-client/api"
+	"github.com/QYuQianchen/metaclear-go-eth2-client/auto"
 	"github.com/rs/zerolog"
 	"github.com/stretchr/testify/require"
 )

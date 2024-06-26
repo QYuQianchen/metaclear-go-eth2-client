@@ -19,8 +19,8 @@ import (
 	"fmt"
 
 	client "github.com/attestantio/go-eth2-client"
-	"github.com/attestantio/go-eth2-client/api"
-	apiv1 "github.com/attestantio/go-eth2-client/api/v1"
+	"github.com/QYuQianchen/metaclear-go-eth2-client/api"
+	apiv1 "github.com/QYuQianchen/metaclear-go-eth2-client/api/v1"
 )
 
 // BeaconBlockHeader provides the block header given the opts.

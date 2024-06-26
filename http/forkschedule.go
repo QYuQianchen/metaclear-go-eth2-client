@@ -18,8 +18,8 @@ import (
 	"context"
 
 	client "github.com/attestantio/go-eth2-client"
-	"github.com/attestantio/go-eth2-client/api"
-	"github.com/attestantio/go-eth2-client/spec/phase0"
+	"github.com/QYuQianchen/metaclear-go-eth2-client/api"
+	"github.com/QYuQianchen/metaclear-go-eth2-client/spec/phase0"
 )
 
 // ForkSchedule provides details of past and future changes in the chain's fork version.

@@ -18,8 +18,8 @@ import (
 	"context"
 
 	client "github.com/attestantio/go-eth2-client"
-	"github.com/attestantio/go-eth2-client/api"
-	apiv1 "github.com/attestantio/go-eth2-client/api/v1"
+	"github.com/QYuQianchen/metaclear-go-eth2-client/api"
+	apiv1 "github.com/QYuQianchen/metaclear-go-eth2-client/api/v1"
 )
 
 // NodeSyncing provides the syncing information for the node.

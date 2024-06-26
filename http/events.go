@@ -26,10 +26,10 @@ import (
 	"time"
 
 	consensusclient "github.com/attestantio/go-eth2-client"
-	api "github.com/attestantio/go-eth2-client/api/v1"
-	"github.com/attestantio/go-eth2-client/spec/altair"
-	"github.com/attestantio/go-eth2-client/spec/capella"
-	"github.com/attestantio/go-eth2-client/spec/phase0"
+	api "github.com/QYuQianchen/metaclear-go-eth2-client/api/v1"
+	"github.com/QYuQianchen/metaclear-go-eth2-client/spec/altair"
+	"github.com/QYuQianchen/metaclear-go-eth2-client/spec/capella"
+	"github.com/QYuQianchen/metaclear-go-eth2-client/spec/phase0"
 	"github.com/r3labs/sse/v2"
 	"github.com/rs/zerolog"
 )

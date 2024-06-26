@@ -19,7 +19,7 @@ import (
 	"encoding/json"
 	"errors"
 
-	api "github.com/attestantio/go-eth2-client/api/v1"
+	api "github.com/QYuQianchen/metaclear-go-eth2-client/api/v1"
 )
 
 // SubmitSyncCommitteeSubscriptions subscribes to sync committees.

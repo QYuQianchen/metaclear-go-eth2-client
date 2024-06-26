@@ -20,9 +20,9 @@ import (
 	"fmt"
 	"strconv"
 
-	"github.com/attestantio/go-eth2-client/codecs"
-	"github.com/attestantio/go-eth2-client/spec/bellatrix"
-	"github.com/attestantio/go-eth2-client/spec/phase0"
+	"github.com/QYuQianchen/metaclear-go-eth2-client/codecs"
+	"github.com/QYuQianchen/metaclear-go-eth2-client/spec/bellatrix"
+	"github.com/QYuQianchen/metaclear-go-eth2-client/spec/phase0"
 	"github.com/holiman/uint256"
 	"github.com/pkg/errors"
 )

@@ -21,8 +21,8 @@ import (
 	"time"
 
 	client "github.com/attestantio/go-eth2-client"
-	api "github.com/attestantio/go-eth2-client/api/v1"
-	"github.com/attestantio/go-eth2-client/http"
+	api "github.com/QYuQianchen/metaclear-go-eth2-client/api/v1"
+	"github.com/QYuQianchen/metaclear-go-eth2-client/http"
 	"github.com/stretchr/testify/require"
 )
 

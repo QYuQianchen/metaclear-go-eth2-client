@@ -19,7 +19,7 @@ import (
 	"encoding/json"
 	"errors"
 
-	"github.com/attestantio/go-eth2-client/spec/altair"
+	"github.com/QYuQianchen/metaclear-go-eth2-client/spec/altair"
 )
 
 // SubmitSyncCommitteeContributions submits sync committee contributions.

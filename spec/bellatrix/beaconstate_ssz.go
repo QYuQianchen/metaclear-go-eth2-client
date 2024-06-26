@@ -4,8 +4,8 @@
 package bellatrix
 
 import (
-	"github.com/attestantio/go-eth2-client/spec/altair"
-	"github.com/attestantio/go-eth2-client/spec/phase0"
+	"github.com/QYuQianchen/metaclear-go-eth2-client/spec/altair"
+	"github.com/QYuQianchen/metaclear-go-eth2-client/spec/phase0"
 	ssz "github.com/ferranbt/fastssz"
 )
 

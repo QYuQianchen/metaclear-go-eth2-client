@@ -14,12 +14,12 @@
 package api
 
 import (
-	"github.com/attestantio/go-eth2-client/spec"
-	"github.com/attestantio/go-eth2-client/spec/altair"
-	"github.com/attestantio/go-eth2-client/spec/bellatrix"
-	"github.com/attestantio/go-eth2-client/spec/capella"
-	"github.com/attestantio/go-eth2-client/spec/deneb"
-	"github.com/attestantio/go-eth2-client/spec/phase0"
+	"github.com/QYuQianchen/metaclear-go-eth2-client/spec"
+	"github.com/QYuQianchen/metaclear-go-eth2-client/spec/altair"
+	"github.com/QYuQianchen/metaclear-go-eth2-client/spec/bellatrix"
+	"github.com/QYuQianchen/metaclear-go-eth2-client/spec/capella"
+	"github.com/QYuQianchen/metaclear-go-eth2-client/spec/deneb"
+	"github.com/QYuQianchen/metaclear-go-eth2-client/spec/phase0"
 )
 
 // VersionedBlockRequest contains a versioned signed beacon block request.

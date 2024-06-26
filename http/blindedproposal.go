@@ -20,11 +20,11 @@ import (
 	"fmt"
 
 	client "github.com/attestantio/go-eth2-client"
-	"github.com/attestantio/go-eth2-client/api"
-	apiv1bellatrix "github.com/attestantio/go-eth2-client/api/v1/bellatrix"
-	apiv1capella "github.com/attestantio/go-eth2-client/api/v1/capella"
-	apiv1deneb "github.com/attestantio/go-eth2-client/api/v1/deneb"
-	"github.com/attestantio/go-eth2-client/spec"
+	"github.com/QYuQianchen/metaclear-go-eth2-client/api"
+	apiv1bellatrix "github.com/QYuQianchen/metaclear-go-eth2-client/api/v1/bellatrix"
+	apiv1capella "github.com/QYuQianchen/metaclear-go-eth2-client/api/v1/capella"
+	apiv1deneb "github.com/QYuQianchen/metaclear-go-eth2-client/api/v1/deneb"
+	"github.com/QYuQianchen/metaclear-go-eth2-client/spec"
 	"go.opentelemetry.io/otel"
 )
 

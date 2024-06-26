@@ -1,9 +1,9 @@
 # go-eth2-client
 
-[![Tag](https://img.shields.io/github/tag/attestantio/go-eth2-client.svg)](https://github.com/attestantio/go-eth2-client/releases/)
+[![Tag](https://img.shields.io/github/tag/attestantio/go-eth2-client.svg)](https://github.com/QYuQianchen/metaclear-go-eth2-client/releases/)
 [![License](https://img.shields.io/github/license/attestantio/go-eth2-client.svg)](LICENSE)
 [![GoDoc](https://godoc.org/github.com/attestantio/go-eth2-client?status.svg)](https://godoc.org/github.com/attestantio/go-eth2-client)
-![Lint](https://github.com/attestantio/go-eth2-client/workflows/golangci-lint/badge.svg)
+![Lint](https://github.com/QYuQianchen/metaclear-go-eth2-client/workflows/golangci-lint/badge.svg)
 [![Go Report Card](https://goreportcard.com/badge/github.com/attestantio/go-eth2-client)](https://goreportcard.com/report/github.com/attestantio/go-eth2-client)
 
 Go library providing an abstraction to multiple Ethereum 2 beacon nodes.  Its external API follows the official [Ethereum beacon APIs](https://github.com/ethereum/beacon-APIs) specification.
@@ -53,8 +53,8 @@ import (
     "fmt"
     
     eth2client "github.com/attestantio/go-eth2-client"
-    "github.com/attestantio/go-eth2-client/api"
-    "github.com/attestantio/go-eth2-client/http"
+    "github.com/QYuQianchen/metaclear-go-eth2-client/api"
+    "github.com/QYuQianchen/metaclear-go-eth2-client/http"
     "github.com/rs/zerolog"
 )
 
@@ -115,7 +115,7 @@ Jim McDonald: [@mcdee](https://github.com/mcdee).
 
 ## Contribute
 
-Contributions welcome. Please check out [the issues](https://github.com/attestantio/go-eth2-client/issues).
+Contributions welcome. Please check out [the issues](https://github.com/QYuQianchen/metaclear-go-eth2-client/issues).
 
 ## License
 
